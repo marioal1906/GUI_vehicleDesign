@@ -51,6 +51,10 @@ The process involves two main modules:
 
 The GUI aims to provide a user-friendly interface with intuitive parameter adjustment tools and error-reduction mechanisms, making it useful for both novice designers and engineers.
 
+## **Reproducing Examples**
+
+To help you get started and reproduce the examples discussed in the associated paper, the exampleTests folder contains all the necessary input files (images) for the car, truck, and airplane models. You can use these files directly with the GUI to generate the corresponding 3D objects.
+
 ## **Using the GUI**
 
 The GUI provides an intuitive interface to control various parameters for drawing vehicles in FreeCAD. The sections above and the detailed comments within the source code provide guidance on each input field and its effect on the vehicle drawing.
