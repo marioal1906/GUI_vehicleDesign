@@ -61,4 +61,4 @@ The GUI provides an intuitive interface to control various parameters for drawin
 
 ## **Documentation**
 
-For detailed information on the functionalities, parameters, and design principles behind this GUI, please refer to the "GUI Functionality Overview" section within this README. It offers a complete overview of the system and its capabilities.
+For detailed information on the functionalities, parameters, and design principles behind this GUI, please refer to the related published article: https://doi.org/10.1109/MCSE.2025.3579421 . It offers a complete overview of the system and its capabilities.
